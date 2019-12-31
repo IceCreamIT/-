@@ -1,5 +1,7 @@
 package 第四天作业;
-
+/*
+* 合并两个有序数组
+* */
 public class Solution {
     public int [] merge(int []nums1, int m,int []nums2, int n){
         int p = m-- + --n -1;
